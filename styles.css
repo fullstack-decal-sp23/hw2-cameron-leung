@@ -147,10 +147,13 @@ h2 {
 }
 
 .mexico-img {
-  max-width:33.3%;
-  max-height:33.3%;
+  width:30%;
+  max-height:75%;
   align-self: center;
-  background-image: url("eagle.png") no-repeat;
+  padding-left: 15px;
+  padding-top: 25px;
+  padding-right: 15px;
+  padding-bottom:25px;
 }
 
 .mexico-red {
